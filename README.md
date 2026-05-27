@@ -303,20 +303,20 @@ Community PR contributors are credited in `CHANGELOG.md` per release. ZeroEntrop
 
 ## ⚠️ Scoras Digital DevOps Agent — Verificação
 
-[![DevOps Score](https://img.shields.io/badge/DevOps%20Score-56%2F100%20(C)-yellow?style=for-the-badge&logo=github)](./andersonamaral2_gbrain_2026-05-26.md)
+[![DevOps Score](https://img.shields.io/badge/DevOps%20Score-56%2F100%20(C)-yellow?style=for-the-badge&logo=github)](./andersonamaral2_gbrain_2026-05-27.md)
 [![Scoras DevOps Agent](https://img.shields.io/badge/Scoras_DevOps_Agent-Verificado-blue?style=for-the-badge&logo=githubactions)](https://github.com/andersonamaral2/gbrain)
 
 | Campo | Valor |
 |-------|-------|
 | 🤖 Avaliado por | Scoras Digital DevOps Agent |
-| 📅 Data da Avaliação | `26/05/2026` |
+| 📅 Data da Avaliação | `27/05/2026` |
 | 📊 Score DevOps & Segurança | `56/100` |
 | 🎯 Nota | C — Regular |
-| 📄 Relatório Completo | [andersonamaral2_gbrain_2026-05-26.md](./andersonamaral2_gbrain_2026-05-26.md) |
+| 📄 Relatório Completo | [andersonamaral2_gbrain_2026-05-27.md](./andersonamaral2_gbrain_2026-05-27.md) |
 
 > *Este repositório foi auditado automaticamente pelo **Scoras Digital DevOps Agent**,*  
 > *verificando métricas DORA, CI/CD, segurança (CVEs, secrets, SAST) e boas práticas.*  
-> *Última avaliação: **26/05/2026***
+> *Última avaliação: **27/05/2026***
 
 ---
 
